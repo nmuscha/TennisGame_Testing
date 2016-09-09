@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 import org.hamcrest.Matcher;
 import org.junit.Test;
 
-public class TennisGameTest{ 
+public class  { 
 	
 // Here is the format of the scores: "player1Score - player2Score"
 // "love - love"
